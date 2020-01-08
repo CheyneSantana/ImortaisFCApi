@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImortaisFCApi", "ImortaisFCApi.csproj", "{3D08E8C0-6062-408D-8221-E8298307F08F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D08E8C0-6062-408D-8221-E8298307F08F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D08E8C0-6062-408D-8221-E8298307F08F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D08E8C0-6062-408D-8221-E8298307F08F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D08E8C0-6062-408D-8221-E8298307F08F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27578EC1-66D2-4E96-A18E-751AE10B17BB}
+	EndGlobalSection
+EndGlobal
